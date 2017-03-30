@@ -10,7 +10,7 @@
     "save",
     "branches"
   ],
-  "repository": "https://github.com/atom/git-tabs",
+  "repository": "https://github.com/dbslone/git-tabs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
