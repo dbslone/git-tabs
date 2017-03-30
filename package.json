@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "git-tabs:toggle"
-  },
   "repository": "https://github.com/atom/git-tabs",
   "license": "MIT",
   "engines": {
