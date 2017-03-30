@@ -8,7 +8,7 @@
     "github",
     "tabs",
     "save",
-    "branches",
+    "branches"
   ],
   "repository": "https://github.com/atom/git-tabs",
   "license": "MIT",
