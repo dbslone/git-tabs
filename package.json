@@ -1,0 +1,18 @@
+{
+  "name": "git-tabs",
+  "main": "./lib/git-tabs",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "git-tabs:toggle"
+  },
+  "repository": "https://github.com/atom/git-tabs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
