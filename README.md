@@ -1,5 +1,7 @@
 # git-tabs package
 
-A short description of your package.
+git-tabs remembers the tabs you have open with each git repository branch.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+If you open tabs `A,B,C` on the master branch then switch to develop and close
+tabs `B,C` and open tabs `X,Y,Z`. When you switch to `master` it will reopen tabs
+`A,B,C`. Upon switching to the develop branch only tabs `A,X,Y,Z` will be open.
