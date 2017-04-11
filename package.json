@@ -2,7 +2,7 @@
   "name": "git-tabs",
   "main": "./lib/git-tabs",
   "version": "0.0.1",
-  "description": "Remember the open tabs when switching between brances",
+  "description": "git-tabs stores the currently open text editors by branch and repopen closed file upon switching branches.",
   "keywords": [
     "git-tabs",
     "github",
