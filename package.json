@@ -16,7 +16,24 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "configSchema": {
+    "useConfirmNotification": {
+      "type": "boolean",
+      "default": false,
+      "description": "Use a confirm notification when switching project/branch"
+    }
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
   "dependencies": {
     "md5": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0"
   }
 }
