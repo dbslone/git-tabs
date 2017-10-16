@@ -1,7 +1,7 @@
 {
   "name": "git-tabs",
   "main": "./lib/git-tabs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "git-tabs stores the currently open text editors by branch and reopens closed files upon switching branches.",
   "keywords": [
     "git-tabs",
