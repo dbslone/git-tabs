@@ -7,9 +7,10 @@
     "git-tabs",
     "github",
     "git",
-    "tabs",
+    "tab",
     "remember",
-    "branches"
+    "branches",
+    "tab manager"
   ],
   "repository": "https://github.com/dbslone/git-tabs",
   "license": "MIT",
